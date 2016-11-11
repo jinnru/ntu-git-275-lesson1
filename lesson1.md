@@ -2,18 +2,18 @@
 
 ## Name
 ----
-Jinn Ru Chen
+**Jinn Ru Chen**
 
 ## Date
 ----
-11/11/2016
+**11/11/2016**
 
 ## Github Username
 ---------------
-jinnru
+**jinnru**
 
 ## My Favorite 3 Programming Languages
 --------------------------------
-1.C
-2.PowerBuilder
-3.ASP.NET
+1. C
+2. PowerBuilder
+3. ASP.NET
